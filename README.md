@@ -4,7 +4,7 @@
 
 * https://www.webdesignerdepot.com/2017/04/the-state-of-front-end-tooling/
 * https://nodejs.org/en/
-	https://www.sitepoint.com/beginners-guide-node-package-manager/
+	* https://www.sitepoint.com/beginners-guide-node-package-manager/
 * https://gruntjs.com/
 * http://gulpjs.com/
 * http://browserify.org/
@@ -47,7 +47,6 @@
 
 ### SMACSS
 * https://smacss.com
-
 
 ## FRAMEWORKS
 
@@ -99,6 +98,10 @@
 * http://contao-bootstrap.netzmacht.de/komponenten/layout/grid-editor.html
 * https://www.marcosimbuerger.ch/contao-kurzanleitungen.html
 * https://community.contao.org/de/showthread.php?66462-Contao-3-5-inkl-installierte-Erweiterungen-auf-Contao-4-3-x-updaten&p=438350&viewfull=1#post438350
+
+### Semver
+* https://github.com/composer/composer/blob/master/doc/articles/versions.md
+* https://github.com/npm/npm/blob/latest/doc/misc/semver.md
 
 ## LEARN
 
